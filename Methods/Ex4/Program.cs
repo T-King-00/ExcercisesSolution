@@ -1,5 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-
+﻿//Exercise 4
+/*
+ Write a method that takes a string array and returns the length of the
+longest string in the array.
+ */
 
 string [] randomWords=
 [

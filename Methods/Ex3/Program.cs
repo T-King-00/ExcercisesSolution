@@ -1,4 +1,5 @@
 ﻿// Exercise3 
+//method extraction
 
 string[][] users = [["john", "plate"], ["michelle", "bike"], ["lisa",
     "pencil"]];
