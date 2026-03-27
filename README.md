@@ -1,9 +1,9 @@
-# Week 12 Exercises
+# Exercises
 This repository contains exercises that are part of my education at Lexicon.  
 
 Each project contains an exercise.
 ______________________________________________
-
+## Week12
 ### Day 1 : Methods 
 -  [Exercise 1](https://github.com/T-King-00/ExcercisesSolution/tree/master/Methods/Ex1)
 -  [Exercise 2](https://github.com/T-King-00/ExcercisesSolution/tree/master/Methods/Ex2)
