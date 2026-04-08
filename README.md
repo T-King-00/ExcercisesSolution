@@ -18,4 +18,4 @@ ______________________________________________
 -  [Exercise 1](https://github.com/T-King-00/ExcercisesSolution/tree/master/Enum/Ex1)
 
 ### LINQ: 
--  [Exercise 1](https://github.com/T-King-00/ExcercisesSolution/tree/master/Linq/linq)
+-  [Exercise 1](https://github.com/T-King-00/ExcercisesSolution/tree/master/Linq/Linq)
