@@ -15,7 +15,15 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31408c18-0442-46fb-acf8-1278ab876779" name="Changes" comment="" />
+    <list default="true" id="31408c18-0442-46fb-acf8-1278ab876779" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Linq/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Linq/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linq2/obj/Debug/net10.0/Linq2.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Linq2/obj/Debug/net10.0/Linq2.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linq2/obj/Debug/net10.0/Linq2.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Linq2/obj/Debug/net10.0/Linq2.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linq2/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Linq2/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/obj/Debug/net10.0/practice.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/practice/obj/Debug/net10.0/practice.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/obj/Debug/net10.0/practice.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/practice/obj/Debug/net10.0/practice.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/practice/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
