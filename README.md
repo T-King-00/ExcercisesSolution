@@ -19,3 +19,6 @@ ______________________________________________
 
 ### LINQ: 
 -  [Exercise 1](https://github.com/T-King-00/ExcercisesSolution/tree/master/Linq/Linq)
+
+### Minimal API :
+-  [Calculator Web API - Exercise ](https://github.com/T-King-00/ExcercisesSolution/tree/master/Calculator-BasicWebApp)
